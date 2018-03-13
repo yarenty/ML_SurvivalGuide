@@ -13,23 +13,31 @@ The main difficulties here are:
 
 1. The frequency of abnormalities is very low. In actual operation and maintenance scenarios, exceptions rarely occur in the business system, so there are few exception data available for analysis. 
 2. Variety of abnormal species. Because the actual business system is very complex and will be continuously updated and upgraded, the types of failures are various, resulting in the diversity of abnormal types. 
-3. KPI diversity. KPIs are characterized by periodicity, stable performance, unstable performance, and persistent fluctuations, as shown in Figures 2, 3, and 4.
+3. KPI diversity. KPIs are characterized by periodicity, stable performance, unstable performance, and persistent fluctuations.
 
 ![Periodic KPI](images/02_periodic.png "Periodic KPI")
+Periodic KPI
+
 ![Stable KPI](images/03_stable.png "Stable KPI")
+Stable KPI
+
 ![Unstable KPI](images/04_unstable.png "Unstable KPI")
+Unstable KPI
+
 
 
 # Data
 
 The training KPI data, includes four columns: KPI ID, timestamp, value, and label if value is abnormal.
 
-[TRAIN data](data/train.zip)
-|KPI ID|Timestamp|Value|Label|
-|---|---:|---:|---:|
+[TRAIN data](data/train.zip)  
+
+| KPI ID | Timestamp | Value  | Label |
+| ------ | ---------:| ------:| -----:|
 |0|1503831000|10.8|0|
 |0|1503831060|12.3|1|
 |...|...|...|...|
+
 
 Data set description: The data set includes 4 columns: KPI ID, time stamp, value, label.   
 *Please note that this dataset contains data missing points (found by the time stamp).*
