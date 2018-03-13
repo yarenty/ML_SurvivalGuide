@@ -5,7 +5,7 @@ Machine Learning Survival Guide
 
 
 ```
-Yoshua Bengio: "With programming skils and math knowledge of calculus, probability, algebra, optimization
+"With programming skils and math knowledge of calculus, probability, algebra, optimization
  within 6 month one could get good backgroung in Machine Learning."
 ```
 
