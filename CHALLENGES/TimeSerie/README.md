@@ -46,8 +46,8 @@ Label: 0 = a normal data point, and 1 = an abnormal data point.
 
 
 
-The test KPI data:.
-[TEST data](data/test.zip)
+[TEST data](data/test.zip)    
+
 | KPI ID | Timestamp | Value |
 | ------ | ---------:| -----:|
 |0|1503831000|10.8|
