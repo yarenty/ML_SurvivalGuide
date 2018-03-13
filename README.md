@@ -14,7 +14,7 @@ This is quick crash course into Machine Learning and Artificial Intelligence.
 It is based on 2 main books:
  - Ian Goodfellow, Youshua Bengio, Aaron Courville: "Deep Learning" - 2016
  - Trevor Hastie, Robert Tibshirani, Jerome Friedman: "The Elements of Statistical Learning: Data Mining, Inference, and Prediction", 2017
- - and [deeplearning.ai](http://www.deeplearining.ai) course. 
+ - and [deeplearning.ai](http://www.deeplearning.ai) course. 
 
 
 
