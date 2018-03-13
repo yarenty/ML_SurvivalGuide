@@ -15,13 +15,13 @@ The main difficulties here are:
 2. Variety of abnormal species. Because the actual business system is very complex and will be continuously updated and upgraded, the types of failures are various, resulting in the diversity of abnormal types. 
 3. KPI diversity. KPIs are characterized by periodicity, stable performance, unstable performance, and persistent fluctuations.
 
-![Periodic KPI](images/02_periodic.png "Periodic KPI")
+![Periodic KPI](images/02_periodic.png "Periodic KPI")   
 Periodic KPI
 
-![Stable KPI](images/03_stable.png "Stable KPI")
+![Stable KPI](images/03_stable.png "Stable KPI")   
 Stable KPI
 
-![Unstable KPI](images/04_unstable.png "Unstable KPI")
+![Unstable KPI](images/04_unstable.png "Unstable KPI")   
 Unstable KPI
 
 
@@ -48,11 +48,13 @@ Label: 0 = a normal data point, and 1 = an abnormal data point.
 
 The test KPI data:.
 [TEST data](data/test.zip)
-|KPI ID|Timestamp|Value|  
-|-----|-----:|-----:|  
-|0|1503831000|10.8|  
-|0|1503831060|12.3| 
+| KPI ID | Timestamp | Value |
+| ------ | ---------:| -----:|
+|0|1503831000|10.8|
+|0|1503831060|12.3|
 |...|...|...|
+
+
 
 
 
