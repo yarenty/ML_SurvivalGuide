@@ -1,7 +1,7 @@
 Machine Learning Survival Guide
 -------------------------------
 
-(C)2018 by YarentY
+(C)2018 by [YarentY](http://www.yarenty.com)
 
 
 > With programming skils and math knowledge of calculus, probability, algebra, optimization
@@ -72,3 +72,9 @@ where anyone could start testing learned tools/methodologies on real world scena
 
 # Author
 Jaroslaw Nowosad - [yarenty](http://www.yarenty.com)
+
+
+> The secret to creativity is knowing how to hide your sources. 
+> -- <cite>[Albert Einstein][1]</cite>
+
+[1]:http://www.quotedb.com/quotes/2112
