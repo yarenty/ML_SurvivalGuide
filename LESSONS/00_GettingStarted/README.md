@@ -14,10 +14,10 @@ On complete this lesson you should:
 
 # TODO
 
-1. Jupyter installation  
+### Jupyter installation  
 
 **Challenge:**  
-First chalennge is to instal you environment.   
+First challenge is to instal you environment.   
 As you can see in this directory there are several ipynb files - those are ipython/jupyter files.
 To open/ run them you need to have installed python environment. You should be able to easilly run this command:
 ```
@@ -25,26 +25,25 @@ jupyter notebook
 ```
 
 
-2. Tensorflow
+### Tensorflow  
 **Challenge:**  
 Using jupyter interface go to [01_TensorFlowHelloWorld.ipynb](01_TensorFlowHelloWorld.ipynb)  
 Replace XXX with your name! Run and do screenshot.  
 *To make this kernel working you should have installed Tensorflow on you machine*
 
-3. H2O
-**Challenge:**
+### H2O  
+**Challenge:**  
 Open [02_H2O_firstML.ipynb](02_H2O_firstML.ipynb) and follow the steps.   
 
 After runnig H2O to to H2o flow interface and perform tasks specified in notebook steps.
 
 What you will do is: 
-- You will open / import data file 
-- Ypu can check data on opening
-- you can easily split input data  into training and validation
-- you will build your first "GEneralize Linear Model" model
+- you will open / import data file 
+- you can easily split input data into training and validation
+- you will build your first "Generalize Linear Model" ML model
 
 NOTE:
-- at this stage you can see lots of parameters - no need to do anything about this you will learn them latter
+- at this stage you can see lots of parameters - no need to do anything about this -  you will learn them latter
 - model you build is not "best" but we will do it properly in next lessons
 - to undestand what just happen - you need to go through lessons - but here you see example of proper ML framework
 
@@ -53,7 +52,7 @@ EXPLORE MORE:
 - run different ML algorithms and compare their output
 - click on data and check columns distributions
 
-4. Python basic 
+### Python basic   
 **Challenge**  
 Open: [03_StartWithPython.ipynb](03_StartWithPython.ipynb)
 1. Fix MyName error
