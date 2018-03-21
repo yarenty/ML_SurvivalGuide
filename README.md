@@ -51,10 +51,20 @@ where anyone could start testing learned tools/methodologies on real world scena
 
 # Structure
 - [Lessons](LESSONS). Syllabus:
-    - [Getting Started](LESSONS/00_GettingStarted) - Env. installation, first steps in python, tensorflow/h2o - hello world
-    - [Basic Math](LESSONS/01_BasicMath) - Intro to calculus, vectors, matrix multiplications,
-    - [Regression](LESSONS/02_Regression) - Predicting House Prices
-    - [Classification](LESSONS/03_Classification) - Sentiment analysis
+    - Done:
+        - [Getting Started](LESSONS/00_GettingStarted) - Env. installation, first steps in python, tensorflow/h2o - hello world
+    - WIP:
+        - [Basic Math](LESSONS/01_BasicMath) - Intro to calculus, vectors, matrix multiplications,
+        - [Regression](LESSONS/02_Regression) - Predicting House Prices
+    - Soon:
+        - [Classification](LESSONS/03_Classification) - Sentiment analysis
+        - [Feature engineering](LESSONS/04_FeatureEngineering)
+        - [Anomaly Detection](LESSONS/05_Anomaly)
+        - [Hyperparameters](LESSON/06_Hyperparameters)
+        - [Deep NN](LESSONS/07_DeepNN)
+        - [CNN](LESSONS/08_CNN)
+        - [RNN](LESSONS/09_RNN)
+        - [AutoML](LESSONS/10_AutoML)
 - [Challenges](CHALLENGES) - different challenges with weekly goals
 - [Resources](RESOURCES) - additional resources - books, whitepapers, things to read
 - [Changelog.md](CHANGELOG.md) - updates on every new release
