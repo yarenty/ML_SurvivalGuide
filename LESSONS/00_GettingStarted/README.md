@@ -17,9 +17,9 @@ On complete this lesson you should:
 ### Jupyter installation  
 
 **Challenge:**  
-First challenge is to instal you environment.   
+First challenge is to install your environment.   
 As you can see in this directory there are several ipynb files - those are ipython/jupyter files.
-To open/ run them you need to have installed python environment. You should be able to easilly run this command:
+To open/ run them you need to have installed python environment. You should be able to easily run this command:
 ```
 jupyter notebook
 ```
