@@ -43,9 +43,9 @@ What you will do is:
 - you will build your first "Generalize Linear Model" ML model
 
 NOTE:
-- at this stage you can see lots of parameters - no need to do anything about this -  you will learn them latter
+- at this stage you can see lots of parameters - no need to do anything about this - you will learn them latter
 - model you build is not "best" but we will do it properly in next lessons
-- to undestand what just happen - you need to go through lessons - but here you see example of proper ML framework
+- to understand what just happen - you need to go through lessons - but here you'll see example of proper ML framework
 
 EXPLORE MORE:
 - click on build model and check different outputs like : training metrics, validation metrics
