@@ -3,7 +3,7 @@ Introduction to basic Math
 
 This should be only basic math that you need to know to finish this lessons.
 
-## After this you should
+## GOAL
 
 - be familiar with basic concepts of matrix 
 - know basic statistical terms
@@ -11,7 +11,8 @@ This should be only basic math that you need to know to finish this lessons.
 - do initial data scientist task - data cleaning
 
 
-## Lessons:
+## TODO 
+
 - [01_BasicMath.ipynb](01_BasicMath.ipynb) - very short introduction to linear algebra (as this is not math survival guide ;-))  just enough to communicate
 - [02_DataStatistics.ipynb](02_DataStatistics.ipynb) - intro to few must know statistical terms, mean, median, deviation, outliers, three-sigma rule
 - [03_DataCleaning.ipynb](03_DataCleaning.ipynb) - first data science challenge:
