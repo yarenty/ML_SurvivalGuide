@@ -74,6 +74,13 @@ where anyone could start testing learned tools/methodologies on real world scena
 
 
 
+# Important
+This project contains large training files - to support them you must install Git Large File Storage extension!
+1. Visit: [https://git-lfs.github.com/](https://git-lfs.github.com/) and install package.
+2. Run it
+3. Run `git lfs install` 
+4. (Optional) if you still don't have big data files downloaded run `git lfs pull`
+ 
 
 
 
